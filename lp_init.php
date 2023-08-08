@@ -7,9 +7,9 @@
 
 
 $host="localhost";
-$db_user="u122541238_efg_root";
+$db_user="u122541238_efg_cuzn_root";
 $db_password="Forsan@2023";
-$db_name="u122541238_efg";
+$db_name="u122541238_efg_elcuzn";
 
 
 /*
