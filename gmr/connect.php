@@ -15,8 +15,8 @@ try {
 
 */
 
-$database = 'mysql:host=localhost;dbname=u122541238_efg';
-$user     = 'u122541238_efg_root';
+$database = 'mysql:host=localhost;dbname=u122541238_efg_elcuzn';
+$user     = 'u122541238_efg_cuzn_root';
 $pass     = 'Forsan@2023';
 $option   = array(PDO::MYSQL_ATTR_INIT_COMMAND => 'SET NAMES UTF8',);
 try {
