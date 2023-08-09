@@ -8,7 +8,7 @@ $logo_h='100px';
 $logo_w='20px';
 $customer_name=' 7-eleven    ';
 $customer_user_name='7-eleven';
-$max_needed_number=5;
+$max_needed_number=150;
 $location_url="https://maps.app.goo.gl/Hhv29nBnxfXHQs8NA?g_st=ic";
 //echo $ad_source;
 
