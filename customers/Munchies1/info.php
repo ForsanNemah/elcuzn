@@ -8,7 +8,7 @@ $logo_h='100px';
 $logo_w='20px';
 $customer_name='Munchies1';
 $customer_user_name='Munchies1';
-$max_needed_number=100;
+$max_needed_number=500;
 $location_url="https://maps.app.goo.gl/QwNdkzEBfZZkCwcP6?g_st=iw";
 //echo $ad_source;
 
