@@ -328,15 +328,18 @@ include 'info.php';
 
 
 <div  >
+<br>
+                                    <br>
 
-<a href="#map_id">
+<a href="#map_id" style="color:blue;">
                                      فتح رابط التقييم 
 
                                     </a>
 
+                                    <br>
+                                    <br>
 
-
-                                    < 
+                                    
 
 </div>
 
