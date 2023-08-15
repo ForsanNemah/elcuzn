@@ -697,7 +697,7 @@ include 'info.php';
 
 
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3461.677953850144!2d-95.56515!3d29.815846999999998!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8640dad462767029%3A0xaa9452f4c9a6c740!2sThe%20Reserve%20at%20City%20Center%20North!5e0!3m2!1sen!2sjo!4v1692139334643!5m2!1sen!2sjo" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
 
 
 
