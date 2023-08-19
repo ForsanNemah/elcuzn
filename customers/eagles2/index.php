@@ -731,6 +731,14 @@ include 'info.php';
 
     <div class="embed-responsive embed-responsive-100x400px" id="map_id">
 
+    <?php
+
+
+
+include "map.php";
+
+?>
+
 <?php
 
 
