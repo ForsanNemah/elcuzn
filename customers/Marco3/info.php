@@ -7,7 +7,7 @@ $map_embed_url="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3319.77855
 $logo_h='100px';
 $logo_w='20px';
 $customer_name='marco3';
-$customer_user_name='abady';
+$customer_user_name='marco3';
 $max_needed_number=5000;
 $location_url="https://maps.app.goo.gl/TWes8qAPRT6ZKZtU6?g_st=ic";
 //echo $ad_source;
