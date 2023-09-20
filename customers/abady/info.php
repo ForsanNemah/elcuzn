@@ -8,7 +8,7 @@ $logo_h='100px';
 $logo_w='20px';
 $customer_name='abady';
 $customer_user_name='abady';
-$max_needed_number=500;
+$max_needed_number=5000;
 $location_url="https://maps.app.goo.gl/TWes8qAPRT6ZKZtU6?g_st=ic";
 //echo $ad_source;
 
